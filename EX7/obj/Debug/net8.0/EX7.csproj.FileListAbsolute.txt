@@ -1,0 +1,14 @@
+C:\Users\kapche\source\repos\Homework2\EX7\bin\Debug\net8.0\EX7.exe
+C:\Users\kapche\source\repos\Homework2\EX7\bin\Debug\net8.0\EX7.deps.json
+C:\Users\kapche\source\repos\Homework2\EX7\bin\Debug\net8.0\EX7.runtimeconfig.json
+C:\Users\kapche\source\repos\Homework2\EX7\bin\Debug\net8.0\EX7.dll
+C:\Users\kapche\source\repos\Homework2\EX7\bin\Debug\net8.0\EX7.pdb
+C:\Users\kapche\source\repos\Homework2\EX7\obj\Debug\net8.0\EX7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapche\source\repos\Homework2\EX7\obj\Debug\net8.0\EX7.AssemblyInfoInputs.cache
+C:\Users\kapche\source\repos\Homework2\EX7\obj\Debug\net8.0\EX7.AssemblyInfo.cs
+C:\Users\kapche\source\repos\Homework2\EX7\obj\Debug\net8.0\EX7.csproj.CoreCompileInputs.cache
+C:\Users\kapche\source\repos\Homework2\EX7\obj\Debug\net8.0\EX7.dll
+C:\Users\kapche\source\repos\Homework2\EX7\obj\Debug\net8.0\refint\EX7.dll
+C:\Users\kapche\source\repos\Homework2\EX7\obj\Debug\net8.0\EX7.pdb
+C:\Users\kapche\source\repos\Homework2\EX7\obj\Debug\net8.0\EX7.genruntimeconfig.cache
+C:\Users\kapche\source\repos\Homework2\EX7\obj\Debug\net8.0\ref\EX7.dll

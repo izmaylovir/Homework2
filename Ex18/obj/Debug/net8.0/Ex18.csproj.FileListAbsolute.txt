@@ -1,0 +1,14 @@
+C:\Users\kapche\source\repos\Homework2\Ex18\bin\Debug\net8.0\Ex18.exe
+C:\Users\kapche\source\repos\Homework2\Ex18\bin\Debug\net8.0\Ex18.deps.json
+C:\Users\kapche\source\repos\Homework2\Ex18\bin\Debug\net8.0\Ex18.runtimeconfig.json
+C:\Users\kapche\source\repos\Homework2\Ex18\bin\Debug\net8.0\Ex18.dll
+C:\Users\kapche\source\repos\Homework2\Ex18\bin\Debug\net8.0\Ex18.pdb
+C:\Users\kapche\source\repos\Homework2\Ex18\obj\Debug\net8.0\Ex18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapche\source\repos\Homework2\Ex18\obj\Debug\net8.0\Ex18.AssemblyInfoInputs.cache
+C:\Users\kapche\source\repos\Homework2\Ex18\obj\Debug\net8.0\Ex18.AssemblyInfo.cs
+C:\Users\kapche\source\repos\Homework2\Ex18\obj\Debug\net8.0\Ex18.csproj.CoreCompileInputs.cache
+C:\Users\kapche\source\repos\Homework2\Ex18\obj\Debug\net8.0\Ex18.dll
+C:\Users\kapche\source\repos\Homework2\Ex18\obj\Debug\net8.0\refint\Ex18.dll
+C:\Users\kapche\source\repos\Homework2\Ex18\obj\Debug\net8.0\Ex18.pdb
+C:\Users\kapche\source\repos\Homework2\Ex18\obj\Debug\net8.0\Ex18.genruntimeconfig.cache
+C:\Users\kapche\source\repos\Homework2\Ex18\obj\Debug\net8.0\ref\Ex18.dll

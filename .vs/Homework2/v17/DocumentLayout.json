@@ -1,0 +1,446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kapche\\source\\repos\\Homework2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBEDCC5-E6A8-455F-9964-9C58415297F6}|22Ex\\22Ex.csproj|c:\\users\\kapche\\source\\repos\\homework2\\22ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBEDCC5-E6A8-455F-9964-9C58415297F6}|22Ex\\22Ex.csproj|solutionrelative:22ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEBF75B-3E74-405B-96A2-BB4A71A4BE29}|21Ex\\21Ex.csproj|c:\\users\\kapche\\source\\repos\\homework2\\21ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEBF75B-3E74-405B-96A2-BB4A71A4BE29}|21Ex\\21Ex.csproj|solutionrelative:21ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B90AF4C-130A-4E74-A1E0-A288B5D7F2C6}|Ex20\\Ex20.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B90AF4C-130A-4E74-A1E0-A288B5D7F2C6}|Ex20\\Ex20.csproj|solutionrelative:ex20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E1FDC7-0941-467F-B0D4-A4D6C60F7C8C}|Ex19\\Ex19.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E1FDC7-0941-467F-B0D4-A4D6C60F7C8C}|Ex19\\Ex19.csproj|solutionrelative:ex19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D653BC7-788C-4309-ADBF-BECFBAEC7D13}|Ex18\\Ex18.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D653BC7-788C-4309-ADBF-BECFBAEC7D13}|Ex18\\Ex18.csproj|solutionrelative:ex18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E066FDA9-E1E4-4036-B6DF-7D3AA63566DA}|Ex17\\Ex17.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E066FDA9-E1E4-4036-B6DF-7D3AA63566DA}|Ex17\\Ex17.csproj|solutionrelative:ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EACC4F5-D80B-40DE-8C9A-07B16ECED3D6}|Ex5\\Ex5.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EACC4F5-D80B-40DE-8C9A-07B16ECED3D6}|Ex5\\Ex5.csproj|solutionrelative:ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03DFF36-68AF-41D3-B14C-5E57F3CB3C14}|ex13\\ex13.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03DFF36-68AF-41D3-B14C-5E57F3CB3C14}|ex13\\ex13.csproj|solutionrelative:ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92333034-DC92-4973-AB89-CB4A0F1FB5E4}|Ex16\\Ex16.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92333034-DC92-4973-AB89-CB4A0F1FB5E4}|Ex16\\Ex16.csproj|solutionrelative:ex16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952983C2-51FC-4670-A7FB-E6BB2619534C}|Ex 15\\Ex 15.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex 15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952983C2-51FC-4670-A7FB-E6BB2619534C}|Ex 15\\Ex 15.csproj|solutionrelative:ex 15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89027657-D29E-4A64-BFDA-50623568786E}|Ex14\\Ex14.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89027657-D29E-4A64-BFDA-50623568786E}|Ex14\\Ex14.csproj|solutionrelative:ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF07CA1-6BA1-428E-BD66-E135BC1E8873}|Ex12\\Ex12.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF07CA1-6BA1-428E-BD66-E135BC1E8873}|Ex12\\Ex12.csproj|solutionrelative:ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B06069-9928-4E4F-AC8C-70FD2FEF9383}|ex11\\ex11.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B06069-9928-4E4F-AC8C-70FD2FEF9383}|ex11\\ex11.csproj|solutionrelative:ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE5E54F-CC28-4BAC-8727-DDC506862378}|EX10\\Ex10.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE5E54F-CC28-4BAC-8727-DDC506862378}|EX10\\Ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70346789-969E-488F-8652-6339C1B0D847}|Homework2\\Ex1.csproj|c:\\users\\kapche\\source\\repos\\homework2\\homework2\\1ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70346789-969E-488F-8652-6339C1B0D847}|Homework2\\Ex1.csproj|solutionrelative:homework2\\1ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65204EF9-0694-41BD-9744-180045FEBC34}|EX9\\EX9.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65204EF9-0694-41BD-9744-180045FEBC34}|EX9\\EX9.csproj|solutionrelative:ex9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9326C6E-5C72-4BCC-862D-1EF0D785853C}|Ex6\\Ex6.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9326C6E-5C72-4BCC-862D-1EF0D785853C}|Ex6\\Ex6.csproj|solutionrelative:ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE5E54F-CC28-4BAC-8727-DDC506862378}|EX10\\Ex10.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex10\\ex10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8AE5E54F-CC28-4BAC-8727-DDC506862378}|EX10\\Ex10.csproj|solutionrelative:ex10\\ex10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EACC4F5-D80B-40DE-8C9A-07B16ECED3D6}|Ex5\\Ex5.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex5\\ex5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EACC4F5-D80B-40DE-8C9A-07B16ECED3D6}|Ex5\\Ex5.csproj|solutionrelative:ex5\\ex5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7FC445-C4FB-4D21-8EB8-D2F8225C23B3}|EX7\\EX7.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7FC445-C4FB-4D21-8EB8-D2F8225C23B3}|EX7\\EX7.csproj|solutionrelative:ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8A8FD7-A393-4DAB-A140-406CD496A947}|..\\EX8\\EX8.csproj|c:\\users\\kapche\\source\\repos\\ex8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DC2EC4-77A5-4006-8AEF-5204365C4DBB}|Ex4\\Ex4.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DC2EC4-77A5-4006-8AEF-5204365C4DBB}|Ex4\\Ex4.csproj|solutionrelative:ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A83AC9-556C-45B6-89F2-6C083EE81B51}|Ex2\\Ex2.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A83AC9-556C-45B6-89F2-6C083EE81B51}|Ex2\\Ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6E51AA-8961-4B35-869B-448477EAE2A7}|Ex3\\Ex3.csproj|c:\\users\\kapche\\source\\repos\\homework2\\ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6E51AA-8961-4B35-869B-448477EAE2A7}|Ex3\\Ex3.csproj|solutionrelative:ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70346789-969E-488F-8652-6339C1B0D847}|Homework2\\Ex1.csproj|c:\\users\\kapche\\source\\repos\\homework2\\homework2\\ex1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70346789-969E-488F-8652-6339C1B0D847}|Homework2\\Ex1.csproj|solutionrelative:homework2\\ex1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "1EX.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Homework2\\1EX.cs",
+              "RelativeDocumentMoniker": "Homework2\\1EX.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Homework2\\1EX.cs",
+              "RelativeToolTip": "Homework2\\1EX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:24:55.226Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\ex11\\Program.cs",
+              "RelativeDocumentMoniker": "ex11\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\ex11\\Program.cs",
+              "RelativeToolTip": "ex11\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:53:13.616Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\22Ex\\Program.cs",
+              "RelativeDocumentMoniker": "22Ex\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\22Ex\\Program.cs",
+              "RelativeToolTip": "22Ex\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:23:18.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\21Ex\\Program.cs",
+              "RelativeDocumentMoniker": "21Ex\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\21Ex\\Program.cs",
+              "RelativeToolTip": "21Ex\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:13:15.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex20\\Program.cs",
+              "RelativeDocumentMoniker": "Ex20\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex20\\Program.cs",
+              "RelativeToolTip": "Ex20\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:34:25.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex19\\Program.cs",
+              "RelativeDocumentMoniker": "Ex19\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex19\\Program.cs",
+              "RelativeToolTip": "Ex19\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:21:10.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex18\\Program.cs",
+              "RelativeDocumentMoniker": "Ex18\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex18\\Program.cs",
+              "RelativeToolTip": "Ex18\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:13:25.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex17\\Program.cs",
+              "RelativeDocumentMoniker": "Ex17\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex17\\Program.cs",
+              "RelativeToolTip": "Ex17\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:07:26.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex 15\\Program.cs",
+              "RelativeDocumentMoniker": "Ex 15\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex 15\\Program.cs",
+              "RelativeToolTip": "Ex 15\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:54:06.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex14\\Program.cs",
+              "RelativeDocumentMoniker": "Ex14\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex14\\Program.cs",
+              "RelativeToolTip": "Ex14\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:47:03.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\ex13\\Program.cs",
+              "RelativeDocumentMoniker": "ex13\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\ex13\\Program.cs",
+              "RelativeToolTip": "ex13\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:24:24.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex12\\Program.cs",
+              "RelativeDocumentMoniker": "Ex12\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex12\\Program.cs",
+              "RelativeToolTip": "Ex12\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:20:04.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex5\\Program.cs",
+              "RelativeDocumentMoniker": "Ex5\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex5\\Program.cs",
+              "RelativeToolTip": "Ex5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:01:52.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex16\\Program.cs",
+              "RelativeDocumentMoniker": "Ex16\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex16\\Program.cs",
+              "RelativeToolTip": "Ex16\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:00:50.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ex10.csproj",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\EX10\\Ex10.csproj",
+              "RelativeDocumentMoniker": "EX10\\Ex10.csproj",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\EX10\\Ex10.csproj",
+              "RelativeToolTip": "EX10\\Ex10.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T11:28:35.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ex5.csproj",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex5\\Ex5.csproj",
+              "RelativeDocumentMoniker": "Ex5\\Ex5.csproj",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex5\\Ex5.csproj",
+              "RelativeToolTip": "Ex5\\Ex5.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T15:01:53.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\EX9\\Program.cs",
+              "RelativeDocumentMoniker": "EX9\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\EX9\\Program.cs",
+              "RelativeToolTip": "EX9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:13:18.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\EX7\\Program.cs",
+              "RelativeDocumentMoniker": "EX7\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\EX7\\Program.cs",
+              "RelativeToolTip": "EX7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:02:31.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex6\\Program.cs",
+              "RelativeDocumentMoniker": "Ex6\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex6\\Program.cs",
+              "RelativeToolTip": "Ex6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T10:50:36.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\EX10\\Program.cs",
+              "RelativeDocumentMoniker": "EX10\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\EX10\\Program.cs",
+              "RelativeToolTip": "EX10\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:28:24.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\EX8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EX8\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\EX8\\Program.cs",
+              "RelativeToolTip": "..\\EX8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:11:39.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Ex1.csproj",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Homework2\\Ex1.csproj",
+              "RelativeDocumentMoniker": "Homework2\\Ex1.csproj",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Homework2\\Ex1.csproj",
+              "RelativeToolTip": "Homework2\\Ex1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T14:53:12.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex4\\Program.cs",
+              "RelativeDocumentMoniker": "Ex4\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex4\\Program.cs",
+              "RelativeToolTip": "Ex4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:58:06.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex3\\Program.cs",
+              "RelativeToolTip": "Ex3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:57:11.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\kapche\\source\\repos\\Homework2\\Ex2\\Program.cs",
+              "RelativeToolTip": "Ex2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:54:13.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
